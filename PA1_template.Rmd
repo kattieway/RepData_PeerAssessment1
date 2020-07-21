@@ -152,3 +152,4 @@ Saving a plot
 dev.copy(png,'timeseries.png', width=480, height=480)
 dev.off()
 ```
+
